@@ -1,0 +1,9 @@
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Release\IPv4SubnetCalculator.exe.config
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Release\IPv4SubnetCalculator.exe
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Release\IPv4SubnetCalculator.pdb
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.mainForm.resources
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.Properties.Resources.resources
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.csproj.GenerateResource.Cache
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.exe
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.pdb
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Release\IPv4SubnetCalculator.csprojAssemblyReference.cache

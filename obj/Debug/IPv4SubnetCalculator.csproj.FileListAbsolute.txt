@@ -1,0 +1,16 @@
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Debug\IPv4SubnetCalculator.exe
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Debug\IPv4SubnetCalculator.pdb
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.Properties.Resources.resources
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.csproj.GenerateResource.Cache
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.exe
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.pdb
+D:\Privat\CSharp-Projects\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.mainForm.resources
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.exe
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.pdb
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Debug\IPv4SubnetCalculator.exe.config
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Debug\IPv4SubnetCalculator.exe
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\bin\Debug\IPv4SubnetCalculator.pdb
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.mainForm.resources
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.Properties.Resources.resources
+C:\Privat\C#-Projekte\IPv4SubnetCalculator\IPv4SubnetCalculator\obj\Debug\IPv4SubnetCalculator.csproj.GenerateResource.Cache
